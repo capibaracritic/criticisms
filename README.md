@@ -1,7 +1,7 @@
 The Capibara Critic
 ================
 
-![Capibara](https://picture_of_capibara.png)
+![Capibara](capibara2.png)
 
 The Capibara Critic is an anonymous but cute animal that points out flaws, incorrectnesses, and missing pieces of information in published machine learning and computer vision articles.
 
