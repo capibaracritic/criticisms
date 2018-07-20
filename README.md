@@ -14,6 +14,7 @@ The criticisms
 | Name of article                                | Published at | Criticism                                |
 |------------------------------------------------|--------------|------------------------------------------|
 | Matching Adversarial Networks                  | CVPR '18     | [read here](criticism/00_MatAN.md)       |
+| Multi-task Self-Supervised Visual Learning     | ICCV '17     | [read here](criticism/01_multitask.md)   |
 
 
 Contributing
