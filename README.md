@@ -13,6 +13,7 @@ The criticisms
 
 | Name of article                                | Published at | Criticism                                |
 |------------------------------------------------|--------------|------------------------------------------|
+| Matching Adversarial Networks                  | CVPR '18     | [read here](criticism/00_MatAN.md)       |
 
 
 Contributing
