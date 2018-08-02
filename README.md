@@ -11,13 +11,14 @@ The goal of the Capibara Critic is not to review entire articles, nor is it mean
 The criticisms
 -------------
 
-| Name of article                                | Published at | Criticism                                |
-|------------------------------------------------|--------------|------------------------------------------|
-| Matching Adversarial Networks                  | CVPR '18     | [read here](criticism/00_MatAN.md)       |
-| Multi-task Self-Supervised Visual Learning     | ICCV '17     | [read here](criticism/01_multitask.md)   |
+| Name of article                                                      | Published at | Criticism                 |
+|-------------------------------------------------------|--------------|------------------------------------------|
+| Matching Adversarial Networks                                        | CVPR '18     | [read here](criticism/00_MatAN.md)       |
+| Multi-task Self-Supervised Visual Learning                           | ICCV '17     | [read here](criticism/01_multitask.md)   |
+| Hierarchical Recurrent Attention Networks for Structured Online Maps | CVPR '18     | [read here](criticism/02_hran.md)        |
 
 
 Contributing
 -------------
 
-Anyone can contribute by making pull requests with additions, fixes, or entire new criticisms.
+Anyone can contribute by making pull requests with additions, fixes, or entire new criticisms. A markdown template can be found [here](template).
